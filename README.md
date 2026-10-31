@@ -19,6 +19,6 @@ I’m currently working on: Building useful Android apps and college projects  <
 ![](https://github-contributor-stats.vercel.app/api?username=ManthanModi24&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
+[![](https://visitcount.itsvg.in/api?id=ManthanModi24&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
